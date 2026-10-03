@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hvupturnly.github.io/aiupturnly-site/sitemap.xml
